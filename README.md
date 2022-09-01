@@ -1,0 +1,2 @@
+# MSRAMOR-Afaan-Oromo-and-Amharic
+MSRAMOR is afaan Oromo and Amharic is a 30 sec dataset of multilingual Afaan Oromo and Amharic speakers. This dataset is prepared for the thesis work titled "Multilingual Speaker recognition of Afaan Oromo and Amharic speakers" the research is done for the partial fulfillment of masters thesis. we learned a lot through out this work so.  one of the chalenges we faced was lack of a buplic dataset to test several models easily. so we thought it could be helpfull for the coming researchers. all of teh research work and code is also included. 
